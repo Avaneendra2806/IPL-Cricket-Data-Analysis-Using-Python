@@ -28,6 +28,8 @@ The project demonstrates practical data analytics skills using Python libraries 
 - 📓 Jupyter Notebook
 ---
 ## 📂 Project Structure
+
+```text
 IPL-Cricket-Data-Analysis-Python/
 │
 ├── 📄 README.md
