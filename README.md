@@ -87,7 +87,7 @@ IPL-Cricket-Data-Analysis-Python/
 ---
 ## 👨‍💻 Author
 **Avaneendra Swayampakala**
-🎯 Looking for Entry Level Full time Data Analyst/Business Analyst
+🎯 Looking for Entry Level Full time Data Analyst/Associate Data Analyst
 ### 💼 Skills
 - 📗 Excel
 - 🐍 Python
